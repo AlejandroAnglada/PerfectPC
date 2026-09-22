@@ -12,11 +12,15 @@ Esto es una especificación, pero se puede ampliar a muchos ámbitos: la persona
 
 ## Necesidad de cómputo principal del software
 
-El análisis de los patrones donde se rompen estos ciclos no es trivial. Se debe tener previamente un registro de las tendencias que ha tenido el usuario previamente y compararla con los datos actuales. Si tanto esta semana, como la anterior, los viernes no cumple su objetivo, se determina que existe un factor común, y se guardan esos datos.
+El análisis de los patrones donde se rompen estos ciclos no es trivial. Se debe tener previamente un registro de las tendencias que ha tenido el usuario previamente y se debe procesar y comparar con los datos actuales. Si tanto esta semana, como la anterior, los viernes no cumple su objetivo, se determina que existe un factor común, y se guardan esos datos.
 
 ## Necesidad de despliegue en la nube
 
 El usuario ha de tener un registro constante en cualquiera de sus dispositivos, y en cualquier parte, lo que ya es indicio de la necesidad de un despliegue en la nube. Además, se deben guardar datos de estos patrones, por lo que debe existir algún almacenamiento persistente remoto al que cualquier instancia del programa en diferentes dispositivos del usuario deben ser capaces de acceder.
+
+## Configuración
+
+Pendiente de concretar.
 
 ## Documentos
 
