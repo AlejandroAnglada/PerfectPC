@@ -2,9 +2,9 @@
 Software de rastreo de hábitos y análisis de tendencias semanales.
 
 ## Definición del problema
-Es muy común que cuando una persona se propone crear un hábito (bien un hábito positivo, o dejar de caer en patrones negativos), se vea incapaz de hacerlo por no tener un soporte constante que le anime a seguir adelante.
+Es muy común que cuando una persona se propone crear un hábito (bien un hábito positivo, o dejar de caer en patrones negativos), se vea incapaz de hacerlo por no tener un soporte constante que le anime a seguir adelante. No existe una alternativa real que permita predecir con seguridad el patrón con el que se falla a la hora de intentar establecer un hábito saludable, que a menudo es posible medirlo, pues suele estar asociado a eventos (estrés laboral/académico, mala calidad de sueño, o días festivos, entre otros).
 
-Existen ya muchos servicios locales (instalados en tu propio dispositivo) que te ponen recordatorios diarios. Yo tuve durante un tiempo un programa en mi teléfono que todos los días me recordaba 5 veces que bebiese agua, y al final acabaron siendo como una notificación cualquiera en mi dispositivo a la que no le prestaba atención una vez me acostumbré a recibirlas. El añadido que propongo a esta base es hacer un análisis sobre qué días de la semana es más probable que no se cumplan esos objetivos.
+Los servicios tradicionales basados en notificaciones periódicas sufren de habituación, perdiendo efectividad al corto plazo al no poder identificar los momentos de mayor vulnerabilidad o riesgo de incumplimiento de metas. Por tanto, aparece la necesidad de analizar y caracterizar los patrones por los que se falla a partir de un historial de actividad para poder identificar cuándo y bajo qué circunstancias hay mayor riesgo de ruptura de un ciclo de hábitos.
 
 Por ejemplo, digamos que un usuario se propone acostarse todos los días sin excepción a las 21:30, pero que los fines de semana, al no tener la presión de ser el día siguiente lectivo, se acuesta más tarde. PersistApp, en este caso, notificará cuando se acerque la fecha al usuario para recordarle que su tendencia es que los viernes y los sábados se quede despierto hasta las tantas.
 
@@ -18,9 +18,20 @@ El análisis de los patrones donde se rompen estos ciclos no es trivial. Se debe
 
 El usuario ha de tener un registro constante en cualquiera de sus dispositivos, y en cualquier parte, lo que ya es indicio de la necesidad de un despliegue en la nube. Además, se deben guardar datos de estos patrones, por lo que debe existir algún almacenamiento persistente remoto al que cualquier instancia del programa en diferentes dispositivos del usuario deben ser capaces de acceder.
 
+## Datos
+
+Actualmente existen varias fuentes reales y públicas de conjuntos de datos, extraídos de un sector de la población que fueron monitorizados a lo largo de su rutina diaria. En concreto, para este proyecto, se usarán a la hora de pasar las pruebas los conjuntos de datos del repositorio de GLOBEM y del proyecto StudentLife, hecho por la universidad de Dartmouth. El primero montiroea diferentes propiedades de la vida, y el segundo se centra en el uso del teléfono móvil.
+
+Para nuestro caso, ambos son perfectamente válidos (digamos que monitorizan dos tipos de hábitos diferentes).
+
 ## Configuración
 
 Pendiente de concretar.
+
+## Referencias
+
+- **[Repositorio de conjunto de datos de tendencias en sociedad GLOBEM](https://github.com/UW-EXP/GLOBEM)**
+- **[Repositorio de conjunto de datos de tendencias de estudiantes universitarios en Dartmouth](https://github.com/frycast/studentlife)**
 
 ## Documentos
 
