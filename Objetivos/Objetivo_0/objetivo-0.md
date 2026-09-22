@@ -6,4 +6,22 @@ He decidido pasar a limpio en mi tablet ambas tarjetas.
 
 ## Configuración del repositorio
 
-Más allá de la licencia (que he usado GNU General Public License versión 3, que es la estándar para software libre), no he tocado aún nada de configuración avanzada por no conocer en detalle cómo será implementado con posterioridad el proyecto. Es decir, tanto el gitignore, como en mi dispositivo la carpeta ".env", como otras configuraciones más avanzadas, están puestas como por defecto.
+* Licencia: GNU General Public License, versión 3.
+* Control de versiones: Uso de git (mediante clave SSH, véase captura abajo) aplicado a cualidades de desarrollo ágil (creación de ramas, issues, milestones, pipelines CI/CD, etc)
+* Estructura:
+PersistApp
+├── Media
+│   └── Todo lo relacionado a contenido audiovisual (imágenes, audio, vídeo, etc)
+├── Objetivos
+│   ├── Objetivo_0
+│   │   └── Ficheros de objetivo 0
+│   ├── Objetivo_1
+│   │   └── Ficheros de objetivo 0
+│   ├── ...
+│   └── Objetivo_9
+│       └── Ficheros de objetivo 0
+├── LICENSE
+├── README.md
+└── .gitignore
+*árbol generado con [esta](https://devtool.tech/en/tree) herramienta*
+<img src="../../Media/Fotos/0_2_ssh.jpg" width="40%">
