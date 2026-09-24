@@ -1,5 +1,4 @@
 # PerfectPC
-Software de rastreo de hábitos y análisis de tendencias semanales.
 
 ## Definición del problema
 El usuario tiene un presupuesto máximo para montar un PC para uso común, es decir, con un equilibrio en la potencia de los componentes. El problema es que hay muchas opciones para cada uno de los componentes, y no puede determinar con precisión cuál es la mejor opción calidad/precio entre todas las disponibles. Además, le gustaría más adelante, cuando su capacidad adquisitiva aumente, ir mejorando componente a componente su PC.
