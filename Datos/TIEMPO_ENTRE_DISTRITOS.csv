@@ -1,0 +1,13 @@
+,Centro,Este,Ciudad Jardín,Bailén-Miraflores,Palma-Palmilla,Cruz Humilladero,Carretera de Cádiz,Churriana,Campanillas,Puerto de la Torre,Teatinos,La Línea de la Concepción
+Centro,0,12,10,8,10,7,8,15,18,18,12,103
+Este,12,0,18,16,18,15,15,20,22,22,18,110
+Ciudad Jardín,10,18,0,10,8,12,16,20,18,16,14,105
+Bailén-Miraflores,8,16,10,0,6,6,10,16,15,14,10,100
+Palma-Palmilla,10,18,8,6,0,10,14,18,16,15,12,102
+Cruz Humilladero,7,15,12,6,10,0,6,12,14,14,8,95
+Carretera de Cádiz,8,15,16,10,14,6,0,10,15,16,10,92
+Churriana,15,20,20,16,18,12,10,0,14,18,12,90
+Campanillas,18,22,18,15,16,14,15,14,0,15,10,94
+Puerto de la Torre,18,22,16,14,15,14,16,18,15,0,10,98
+Teatinos,12,18,14,10,12,8,10,12,10,10,0,96
+La Línea de la Concepción,103,110,105,100,102,95,92,90,94,98,96,0
