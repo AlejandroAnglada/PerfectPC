@@ -11,6 +11,10 @@ Además, también sucede que cuando llama al asegurado por teléfono para decirl
 
 Como ya he mencionado, mi padre lleva alrededor de 30 años trabajando de perito de seguros autónomo. Desde hace ya algunos años, en verano, le suelo acompañar en el coche para que no esté solo muchas horas en la carretera, por lo que estos problemas los conozco de primera mano. Todo lo mencionado son cosas que le suceden al menos una vez al mes, normalmente más, por lo que son problemas reales.
 
+## Objetivo
+
+Obtener una ruta óptima que incluya todas las peritaciones del día teniendo en cuenta las restricciones del problema, con el fin de minimizar el tiempe consumido en el día.
+
 ## Documentos
 
 Se puede consultar lo relativo al objetivo 0 [aquí](/Objetivos/Objetivo_0/objetivo-0.md).
