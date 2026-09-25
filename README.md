@@ -7,9 +7,9 @@ Al organizarlas en orden de llegada, le suele pasar que hay una secuencia de per
 
 Además, también sucede que cuando llama al asegurado por teléfono para decirle que va de camino, éste le dice en el último momento que no puede porque le ha surgido algo, lo que le cambia completamente los planes estando ya realizando las peritaciones.
 
-## Referencias
+## Conocimiento acerca del problema
 
-- **[Repositorio de componentes de PC en formato JSON](https://github.com/docyx/pc-part-dataset)**
+Como ya he mencionado, mi padre lleva alrededor de 35 años trabajando de perito de seguros autónomo. Desde hace ya algunos años, en verano, le suelo acompañar en el coche para que no esté solo muchas horas en la carretera, por lo que estos problemas los conozco de primera mano. Todo lo mencionado son cosas que le suceden al menos una vez al mes, normalmente más, por lo que son problemas reales.
 
 ## Documentos
 
