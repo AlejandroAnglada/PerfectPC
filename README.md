@@ -7,6 +7,8 @@ Al organizarlas en orden de llegada, le suele pasar que hay una secuencia de per
 
 Además, también sucede que cuando llama al asegurado por teléfono para decirle que va de camino, éste le dice en el último momento que no puede porque le ha surgido algo, lo que le cambia completamente los planes estando ya realizando las peritaciones.
 
+Esto puede provocar un retraso considerable en las peritaciones, generando un efecto bola de nieve por retrasos acumulados tras varias peritaciones, por lo que es posible que no puedan cumplirse todas las programadas para ese día.
+
 ## Conocimiento acerca del problema
 
 Como ya he mencionado, mi padre lleva alrededor de 30 años trabajando de perito de seguros autónomo. Desde hace ya algunos años, en verano, le suelo acompañar en el coche para que no esté solo muchas horas en la carretera, por lo que estos problemas los conozco de primera mano. Todo lo mencionado son cosas que le suceden al menos una vez al mes, normalmente más, por lo que son problemas reales.
