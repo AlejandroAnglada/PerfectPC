@@ -9,7 +9,7 @@ Además, también sucede que cuando llama al asegurado por teléfono para decirl
 
 ## Conocimiento acerca del problema
 
-Como ya he mencionado, mi padre lleva alrededor de 35 años trabajando de perito de seguros autónomo. Desde hace ya algunos años, en verano, le suelo acompañar en el coche para que no esté solo muchas horas en la carretera, por lo que estos problemas los conozco de primera mano. Todo lo mencionado son cosas que le suceden al menos una vez al mes, normalmente más, por lo que son problemas reales.
+Como ya he mencionado, mi padre lleva alrededor de 30 años trabajando de perito de seguros autónomo. Desde hace ya algunos años, en verano, le suelo acompañar en el coche para que no esté solo muchas horas en la carretera, por lo que estos problemas los conozco de primera mano. Todo lo mencionado son cosas que le suceden al menos una vez al mes, normalmente más, por lo que son problemas reales.
 
 ## Documentos
 
